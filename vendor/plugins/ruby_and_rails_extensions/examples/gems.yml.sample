@@ -1,0 +1,13 @@
+gems:
+  - name: rcov
+    version: '>=0.8.0.2'
+  - name: tzinfo
+    version: '>=0.3.3'
+
+# - name: postgres
+# 	# the version to use
+#   version: '0.7.1'
+#   # this gem has a specfic source URL
+#   source: 'http://mongrel.rubyforge.org/releases'
+#   # any extra config that needs to be passed to gem install
+#   config: '--with-pgsql-include-dir=/usr/local/pgsql/include --with-pgsql-lib-dir=/usr/local/pgsql/lib'
